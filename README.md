@@ -66,4 +66,4 @@ Don't miss this opportunity to immerse yourself in the world of AGI and become p
 * **Business Leaders & Decision-makers:** Executives and managers in various industries, including finance, healthcare, and technology, will gain valuable insights into how AGI will impact their sectors. This knowledge is essential for strategic planning and decision-making.
 * **Ethics and Policy Enthusiasts:** Those interested in the ethical and policy dimensions of AGI, including policymakers, ethicists, and advocates, will find this course illuminating. It explores the ethical implications and potential regulatory frameworks for AGI.
 * **Curious Minds:** Regardless of your professional background, if you are simply curious about AGI and its transformative potential, this course offers a captivating journey through the world of AGI, from its inception to its future implications.
-* <hr>
+<hr>
