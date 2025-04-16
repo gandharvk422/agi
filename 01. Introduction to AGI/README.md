@@ -164,3 +164,5 @@
 
 * The risk of loss of control
 <hr>
+
+<a href="../">«Previous</a> | <a href="../02. Pathways to AGI">Next»</a>
