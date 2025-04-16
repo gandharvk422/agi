@@ -28,7 +28,7 @@
 |----------|----------|
 | Data Challenge    | Feeding large amounts of data can be difficult and expensive     |
 | Algorithm Challenge    | Different algorithms are required for different types of tasks     |
-| Interpretability Challenge    | Trusting the decisions of the algorithm can be difficult
+| Interpretability Challenge    | Trusting the decisions of the algorithm can be difficult     |
 <hr>
 
 ## Natural Language Processing
