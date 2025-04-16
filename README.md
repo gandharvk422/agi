@@ -28,19 +28,19 @@ Are you intrigued by the concept of Artificial General Intelligence (AGI), the p
 
 Our course is meticulously structured to provide you with a comprehensive understanding of AGI:
 
-* **Introduction to AGI:** Begin with the basics, unraveling the concept of AGI, its historical evolution, various approaches, and the formidable challenges it presents.
+* <b><a href="01. Introduction to AGI/">Introduction to AGI:</b></a> Begin with the basics, unraveling the concept of AGI, its historical evolution, various approaches, and the formidable challenges it presents.
 
-* **Pathways to AGI:** Explore the foundational technologies that pave the way to AGI, including machine learning, natural language processing, and computer vision.
+* <b><a href="02. Pathways to AGI/">Pathways to AGI:</b></a> Explore the foundational technologies that pave the way to AGI, including machine learning, natural language processing, and computer vision.
 
-* **Robotics & Other Approaches:** Investigate the role of robotics and alternative approaches in AGI development.
+* <b>Robotics & Other Approaches:</b> Investigate the role of robotics and alternative approaches in AGI development.
 
-* **Challenges to AGI:** Navigate the hardware, software, data, and ethics challenges, equipping yourself with the knowledge to overcome AGI's hurdles.
+* <b>Challenges to AGI:</b> Navigate the hardware, software, data, and ethics challenges, equipping yourself with the knowledge to overcome AGI's hurdles.
 
-* **The Different Types of AGI:** Differentiate between Narrow AI, General AI, Strong AI, and Superintelligence, gaining insights into the diverse AI forms.
+* <b><a href="03. The Different Types of AGI/">The Different Types of AGI:</b></a> Differentiate between Narrow AI, General AI, Strong AI, and Superintelligence, gaining insights into the diverse AI forms.
 
-* **The Different Levels of AGI:** Progress through AGI levels, from basic task performance to human-like cognition, as we demystify the stages of AGI development.
+* <b><a href="04. The Different Levels of AGI/">The Different Levels of AGI:</b></a> Progress through AGI levels, from basic task performance to human-like cognition, as we demystify the stages of AGI development.
 
-* **The Future of AGI:** Dive into the potential benefits, risks, and ethical implications of AGI, envisioning the future shaped by AGI's emergence.
+* <b><a href="05. The Different Applications of AGI/">The Future of AGI:</b></a> Dive into the potential benefits, risks, and ethical implications of AGI, envisioning the future shaped by AGI's emergence.
 
 ## Course Structure
 
