@@ -8,13 +8,7 @@
 
 * This is done by *feeding the software large amounts of data and allowing it to find patterns in the data.* Once the software has found patterns, it can use these patterns to make predictions or decisions.
 
-    <img src="Pathways%20to%20AGI.svg">
-
-    ```mermaid
-    flowchart LR
-        A[Feed large amounts of data to software] --> B[Find patterns in the data]
-        B --> C[Use patterns to make predictions/decisions]
-    ```
+    <img src="Images/Pathways%20to%20AGI.png">
 
 ### Machine Learning Working
 
