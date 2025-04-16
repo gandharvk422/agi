@@ -175,3 +175,5 @@
 
 * The risk of loss of control
 <hr>
+
+<a href="../03. The Different Types of AGI">«Previous</a> | <a href="../05. The Different Applications of AGI">Next»</a>
