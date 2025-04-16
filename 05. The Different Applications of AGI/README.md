@@ -132,3 +132,5 @@ Here are some specific examples of how AGI-powered medical diagnosis systems cou
 
 Overall, the potential of AGI-powered medical diagnosis systems is enormous. These technologies have the potential to transform our healthcare system and make us all healthier.
 <hr>
+
+<a href="../04. The Different Levels of AGI">«Previous</a>
