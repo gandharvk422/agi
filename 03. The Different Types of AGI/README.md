@@ -85,3 +85,5 @@
 | General AI    | Any     | Equal to human     | Yes     | None yet     |
 | Superintelligence    | Any     | Above human     | Unknown     | None yet     |
 <hr>
+
+<a href="../02. Pathways to AGI">«Previous</a> | <a href="../04. The Different Levels of AGI">Next»</a>
