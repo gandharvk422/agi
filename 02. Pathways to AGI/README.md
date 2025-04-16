@@ -8,7 +8,7 @@
 
 * This is done by *feeding the software large amounts of data and allowing it to find patterns in the data.* Once the software has found patterns, it can use these patterns to make predictions or decisions.
 
-    <img src="https://github.com/gandharvk422/agi/blob/main/02.%20Pathways%20to%20AGI/Pathways%20to%20AGI.svg">
+    <img src="Pathways%20to%20AGI.svg">
 
     ```mermaid
     flowchart LR
