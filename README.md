@@ -4,6 +4,8 @@ Unlock the Boundless Horizons of Artificial General Intelligence (AGI) and Revol
 
 ## Certificate of Completion
 
+<img src="Certificate of Completion/Certificate of Completion.jpg">
+
 <a href="Certificate of Completion/" target="_blank">Certificate of Completion</a>
 
 ## Explore AGI: Navigating the Path to Human-like Intelligence
