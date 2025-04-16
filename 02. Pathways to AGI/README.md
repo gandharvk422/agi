@@ -111,3 +111,5 @@
 
 3. **Quantum AI:** It still in their early stages of development, and it is not clear if they will be able to be used to create practical AI systems in the near future.
 <hr>
+
+<a href="../01. Introduction to AGI">«Previous</a> | <a href="../03. The Different Types of AGI">Next»</a>
