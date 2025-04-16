@@ -32,9 +32,9 @@ Our course is meticulously structured to provide you with a comprehensive unders
 
 * <b><a href="02. Pathways to AGI/">Pathways to AGI:</a></b> Explore the foundational technologies that pave the way to AGI, including machine learning, natural language processing, and computer vision.
 
-* <b>Robotics & Other Approaches:</b> Investigate the role of robotics and alternative approaches in AGI development.
+* <b><a href="02. Pathways to AGI/#robotics">Robotics</a> & <a href="02. Pathways to AGI/#other-approaches">Other Approaches:</a></b> Investigate the role of robotics and alternative approaches in AGI development.
 
-* <b>Challenges to AGI:</b> Navigate the hardware, software, data, and ethics challenges, equipping yourself with the knowledge to overcome AGI's hurdles.
+* <b><a href="02. Pathways to AGI/#challenges">Challenges to AGI:</a></b> Navigate the hardware, software, data, and ethics challenges, equipping yourself with the knowledge to overcome AGI's hurdles.
 
 * <b><a href="03. The Different Types of AGI/">The Different Types of AGI:</a></b> Differentiate between Narrow AI, General AI, Strong AI, and Superintelligence, gaining insights into the diverse AI forms.
 
