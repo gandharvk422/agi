@@ -2,6 +2,10 @@
 
 Unlock the Boundless Horizons of Artificial General Intelligence (AGI) and Revolutionize Your Understanding of the Future!
 
+## Certificate of Completion
+
+<a href="Certificate of Completion/" target="_blank">Certificate of Completion</a>
+
 ## Explore AGI: Navigating the Path to Human-like Intelligence
 
 Are you intrigued by the concept of Artificial General Intelligence (AGI), the pinnacle of AI development that promises human-level cognitive abilities? Do you wish to comprehend its historical evolution, various approaches, challenges, and the profound impact it will have on our world? Look no further! Join our comprehensive course, "Explore AGI: Navigating the Path to Human-like Intelligence," and embark on a transformative journey into the world of AGI.
@@ -67,3 +71,5 @@ Don't miss this opportunity to immerse yourself in the world of AGI and become p
 * **Ethics and Policy Enthusiasts:** Those interested in the ethical and policy dimensions of AGI, including policymakers, ethicists, and advocates, will find this course illuminating. It explores the ethical implications and potential regulatory frameworks for AGI.
 * **Curious Minds:** Regardless of your professional background, if you are simply curious about AGI and its transformative potential, this course offers a captivating journey through the world of AGI, from its inception to its future implications.
 <hr>
+
+<a href="01. Introduction to AGI">Next»</a>
